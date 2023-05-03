@@ -1,6 +1,6 @@
 # the-news-dragon
 
-## LIve website link: https://incomparable-lollipop-3aa686.netlify.app/
+## LIve website link: https://the-news-dragon-client-50041.web.app/category/0
 ## Features:
 
 -React boostrap </br>
